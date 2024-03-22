@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="pensando" size="50.000000 70.017639" />
+    <ImageTarget name="ninos" size="50.000000 60.571430" />
+    <ImageTarget name="JKRowling" size="50.000000 68.846817" />
+    <ImageTarget name="ho" size="50.000000 41.982506" />
+    <ImageTarget name="grif" size="50.000000 60.483871" />
+    <ImageTarget name="Gorro" size="50.000000 40.857143" />
+    <ImageTarget name="934" size="50.000000 50.000000" />
+  </Tracking>
+</QCARConfig>
